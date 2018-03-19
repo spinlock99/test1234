@@ -1,14 +1,14 @@
 {
-  "short_name": "todo-pwa",
-  "name": "todo-pwa",
+  "short_name": "test1234",
+  "name": "test1234",
   "icons": [
     {
-      "src":"https://process.filestackapi.com/resize=width:144/CxfFZvFqQu65W2mQACmj",
+      "src":"https://process.filestackapi.com/resize=width:144/3NGNZSqhR0uM1YmCDfCF",
       "sizes": "144x144",
       "type": "image/png"
     }
   ],
-  "start_url": "/todo-pwa/?utm_source=homescreen",
+  "start_url": "/test1234/?utm_source=homescreen",
   "background_color": "#000",
   "theme_color": "#536878",
   "display": "standalone"
