@@ -22,7 +22,7 @@ module.exports = {
   },
   plugins: [
     new HtmlWebpackPlugin({
-      title: "NAME",
+      title: "test1234",
       template: "src/index.ejs"
     }),
     new OfflinePlugin()
